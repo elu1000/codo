@@ -1,0 +1,46 @@
+
+  
+  .caja1{
+    width:100%;
+    height: 130px;
+     background-color: #f29409;
+     padding-top: 5.5px;
+     
+ }   
+ 
+ .nav a{
+ 
+     font-size: 8pt;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+     background-color:rgb(200, 57, 0) ;
+     color: white;
+     text-decoration: none;
+    padding: 10px;
+    margin-right: 1px;
+  
+ }
+ a:hover{
+  color:saddlebrown;
+  border-color: saddlebrown;
+  border-style: solid;
+  padding-top: 10px;
+
+ }
+
+ 
+
+    
+     
+   
+   footer{
+     width: auto;
+     height: 80px;
+     background-color: #f29409;
+     margin-top: 3%;
+   }
+   .pie{
+     font-weight: bold;
+     text-align: center;
+     font-style: oblique;
+     padding-top: 10px;
+   }
